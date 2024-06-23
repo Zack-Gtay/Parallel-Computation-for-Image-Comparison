@@ -1,4 +1,4 @@
-# Project: Parallel Image Comparison Algorithm
+# Parallel Image Comparison Algorithm With OpenCV and MPI
 
 ## Part 1: Algorithm Development 
 
