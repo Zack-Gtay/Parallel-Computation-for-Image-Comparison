@@ -32,7 +32,7 @@
   \]
 - `N` and `M` are the width and height of the arrays, respectively.
 
-## Part 2: Image Comparison with Dataset (30%)
+## Part 2: Image Comparison with Dataset
 
 ### Task 1: Dataset Selection
 - Identify a suitable dataset (e.g., Kaggle, MNIST, CIFAR).
